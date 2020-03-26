@@ -3,7 +3,8 @@
 ### Smaller businesses who ship
 * Chocolate: [Chocolopolis](https://www.chocolopolis.com/)
 * Coffee: [Seattle Coffee Works](https://www.seattlecoffeeworks.com/)
-* Pizza: [Lout Malnatis](https://www.tastesofchicago.com/category/Lou_Malnatis_Pizza)
+* Pizza: [Lou Malnati's](https://www.tastesofchicago.com/category/Lou_Malnatis_Pizza)
+* Hot dogs & Italian beef: [Portillo's](https://www.portillos.com/index-shop-and-ship.html) 
 
 ### Smaller businesses offering services via video conference
 * Wills and Family Law: [Law Offices of Mackenzie Sorich](https://www.sorichlaw.com/)
